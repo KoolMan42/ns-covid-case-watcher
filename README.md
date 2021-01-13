@@ -24,7 +24,7 @@ There are 2 file that need to be created.
 
 # DB schema
 
-Here is the DB schema because in order to use this project your gonna need a sqlite3 file
+Here is the DB schema because in order to use this project
 
 | name (String/VarChar) | email (String/VarChar) | hasEmailBeenSentToday (Boolean) |
 | ------ | ------ | ------ |
